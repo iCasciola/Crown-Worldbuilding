@@ -1,5 +1,4 @@
 ---
-title: Homepage
-view: date-title-summary
+title: Home
 ---
 # Hello :)
