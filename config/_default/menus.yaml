@@ -17,6 +17,9 @@ main:
   - name: Community
     url: community/
     weight: 50
+    name: Crown
+    url: crown/
+    weight: 60
 
 sidebar:
   - identifier: more
