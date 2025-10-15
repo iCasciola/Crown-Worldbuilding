@@ -1,4 +1,4 @@
 ---
-title: Home
+title: Crown
 ---
-# Hello :)
+# Welcome to Crown
